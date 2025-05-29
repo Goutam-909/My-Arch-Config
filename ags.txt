@@ -1,1 +1,2 @@
 https://github.com/Jas-SinghFSU/HyprPanel
+https://github.com/end-4/dots-hyprland
